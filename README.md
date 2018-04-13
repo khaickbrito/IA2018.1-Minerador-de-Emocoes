@@ -12,7 +12,7 @@ Mercado Livre Brasil
 ### Passo a Passo
 
 * Escolher a categoria
-* Coletar os Ids dos produtos através do link contido nas tags <!--<h2> <a href="" -->
+* Coletar os Ids dos produtos através do link contido nas tags < h2 < a href=""
 * Coletar o link do produto
 * Acessar a página do produto (Usando o link do h2)
 * Coletar o número de avaliações no <span class="average-legend"
