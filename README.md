@@ -17,8 +17,8 @@ Mercado Livre Brasil
 * Acessar a página do produto (Usando o link do h2)
 * Coletar o número de avaliações no <span class="average-legend"
 * Acessar as páginas de extração iterando por ID e parametrando o numero de avaliações.
-* * Iterar acrescendo +5 no offset e no Limit
-* * Para se contar as estrelas verifica-se: <linearGradient <stop offset="100" para estrela amarela e <linearGradient <stop offset="0" para estrelas cinzas
+** Iterar acrescendo +5 no offset e no Limit
+** Para se contar as estrelas verifica-se: <linearGradient <stop offset="100" para estrela amarela e <linearGradient <stop offset="0" para estrelas cinzas
     
 
 
