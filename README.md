@@ -12,10 +12,10 @@ Mercado Livre Brasil
 ### Passo a Passo
 
 * Escolher a categoria
-* Coletar os Ids dos produtos através do link contido nas tags <h2><a href=""></h2>
+* Coletar os Ids dos produtos através do link contido nas tags <h2><a href=""
 * Coletar o link do produto
 * Acessar a página do produto (Usando o link do h2)
-* Coletar o número de avaliações no <span class="average-legend">
+* Coletar o número de avaliações no <span class="average-legend"
 * Acessar as páginas de extração iterando por ID e parametrando o numero de avaliações.
 * * Iterar acrescendo +5 no offset e no Limit
 * * Para se contar as estrelas verifica-se: <linearGradient <stop offset="100" para estrela amarela e <linearGradient <stop offset="0" para estrelas cinzas
